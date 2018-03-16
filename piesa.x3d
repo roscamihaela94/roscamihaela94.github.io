@@ -1,0 +1,8 @@
+<x3d>
+	<shape DEF = "CUB">
+			<appearance>
+				<material diffuseColor = "1 0 0 " />
+			</appearance>
+			<box></box>
+		</shape>
+</x3d>
