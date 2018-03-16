@@ -1,4 +1,4 @@
-window.addEvenimentListener("deviceorientation", on_divice_orientation)
+window.addEvenListener("deviceorientation", on_divice_orientation)
 
 function on_divice_orientation(e)
 {
